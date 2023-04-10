@@ -4,4 +4,4 @@ Text message for testing GIT techonoly
 
 ВЕТКА МАСТЕР
 
-ИЗМЕНЕНИЯ В ВЕТКЕ ДЕВЕЛОПЕРА
+ИЗМЕНЕНИЯ В ВЕТКЕ ДЕВЕЛОПЕРА ВЕТКА DEVELOPER
