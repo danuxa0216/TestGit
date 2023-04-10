@@ -1,3 +1,5 @@
 Text message for testing GIT techonoly
 
 Новый текст в этом файле
+
+ВЕТКА МАСТЕР
